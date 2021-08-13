@@ -1,2 +1,2 @@
 
-Site [www.pa69pa](https://pa69pa.github.io/www/)
+Site [www.pa69pa](http://pa69pa.github.io/www/)
